@@ -1,0 +1,57 @@
+.tag
+ {
+    padding: 50px;
+ }
+.form-search{
+    position: relative;
+    width: 100%;
+
+}
+.form-search i{
+    position: absolute;
+    left: 11px;
+    top: 12px;
+}
+.form-search input {
+    padding-left: 30px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    
+}
+.card-left {
+    width: 50%;
+    padding: 10px;
+
+}
+
+.card-item{
+    display: flex;
+    border-radius: 15px;
+    justify-content:space-between;
+    width: 30%;
+    font-size: 18px;
+    width: 26%;
+    box-sizing: border-box;
+    padding: 20px;
+    
+}
+.card-item .carf-left{
+    width: 50%;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 20px ;
+}
+.card-avatar{
+    width: 100%;
+    padding: 0px 10PX;
+    text-align: center;
+    DISPLAY: FLEX;
+    JUSTIFY-CONTENT: space-around;
+}
+.nav-link.active{
+    background-color: #849FFF;
+    color: white;
+}
