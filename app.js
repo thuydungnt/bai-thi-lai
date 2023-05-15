@@ -26,7 +26,7 @@ function snt(num) {
   
   document.querySelector("form").addEventListener("submit", calculateSum);
 
-  //bai2//
+  //bai2 asdasdad //
 function numberOneTriangle() {
     let num = prompt("Nhập số nguyên trong khoảng từ 1 đến 10:");
     let result = "";
